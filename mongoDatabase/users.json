@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5af2197fb5047e0260959a01"), 
+    "fullname" : "Hakan Genc", 
+    "email" : "hakan@gmail.com", 
+    "username" : "wequantez3", 
+    "password" : "hakangenc1", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5af21f434d9b3b3db8af4aa6"), 
+    "fullname" : "Emmanuel Christian Nteranya", 
+    "email" : "emmanuel@gmail.com", 
+    "username" : "emmanuel1", 
+    "password" : "123456", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5af21f534d9b3b3db8af4aa7"), 
+    "fullname" : "Fuat Kara", 
+    "email" : "fuat@gmail.com", 
+    "username" : "fuat1", 
+    "password" : "1234567", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5af21f767377271ec808851f"), 
+    "fullname" : "Sakir Alp", 
+    "email" : "sakir@gmail.com", 
+    "username" : "sakir1", 
+    "password" : "123456", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5af220241a40703ed85913ca"), 
+    "fullname" : "Murat Aslan", 
+    "email" : "murat@gmail.com", 
+    "username" : "murat1", 
+    "password" : "1234567", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5af22064cc8dcb192036fe63"), 
+    "fullname" : "Eyup Dikici", 
+    "email" : "eyup@gmail.com", 
+    "username" : "eyup1", 
+    "password" : "123456", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5af2221c6ccf89453ca70b51"), 
+    "fullname" : "Besir Deniz", 
+    "email" : "besir@gmail.com", 
+    "username" : "besir1", 
+    "password" : "123456", 
+    "__v" : NumberInt(0)
+}
