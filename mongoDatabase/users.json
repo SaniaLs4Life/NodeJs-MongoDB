@@ -1,12 +1,4 @@
 { 
-    "_id" : ObjectId("5af2197fb5047e0260959a01"), 
-    "fullname" : "Hakan Genc", 
-    "email" : "hakan@gmail.com", 
-    "username" : "wequantez3", 
-    "password" : "hakangenc1", 
-    "__v" : NumberInt(0)
-}
-{ 
     "_id" : ObjectId("5af21f434d9b3b3db8af4aa6"), 
     "fullname" : "Emmanuel Christian Nteranya", 
     "email" : "emmanuel@gmail.com", 
